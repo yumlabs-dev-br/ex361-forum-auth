@@ -8,7 +8,7 @@ API REST de um fórum com autenticação JWT, tópicos, respostas e perfis.
 
 ```bash
 npm install
-npm start        # inicia em http://localhost:3002
+npm start        # inicia em http://localhost:3000
 ```
 
 O projeto já sobe com uma rota raiz `GET /`. Todo o resto é com o grupo.
